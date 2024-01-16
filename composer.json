@@ -10,7 +10,7 @@
         "http",
         "client"
     ],
-    "homepage": "https://github.com/concrete5-community/http-client-compat",
+    "homepage": "https://github.com/concrete5-community/http_client_compat",
     "license": "MIT",
     "authors": [
         {
@@ -21,8 +21,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/concrete5-community/http-client-compat/issues",
-        "source": "https://github.com/concrete5-community/http-client-compat"
+        "issues": "https://github.com/concrete5-community/http_client_compat/issues",
+        "source": "https://github.com/concrete5-community/http_client_compat"
     },
     "require": {
         "concrete5/core": "^8.5 | ^9.1"
