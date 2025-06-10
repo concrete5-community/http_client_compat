@@ -1,4 +1,4 @@
-[![Test](https://github.com/mlocati/http_client_compat/actions/workflows/test.yml/badge.svg)](https://github.com/mlocati/http_client_compat/actions/workflows/test.yml)
+[![Test](https://github.com/mlocati/http_client_compat/actions/workflows/tests.yml/badge.svg)](https://github.com/mlocati/http_client_compat/actions/workflows/tests.yml)
 
 ## A Concrete package to help performing HTTP request
 
